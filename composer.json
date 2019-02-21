@@ -1,13 +1,13 @@
 {
-    "name": "clegginabox/pdf-merger",
-    "description": "PDF File Merger for PHP5",
+    "name": "zvonchuk/pdf-merger",
+    "description": "PDF File Merger for PHP 7",
     "require": {
         "setasign/fpdi": "dev-master"
     },
     "authors": [
         {
-            "name": "Paul Clegg",
-            "email": "paul@clegginabox.co.uk"
+            "name": "German Zvonchuk",
+            "email": "german.zvonchuk@gmail.com"
         }
     ],
     "autoload": {
