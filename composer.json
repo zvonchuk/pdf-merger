@@ -2,8 +2,8 @@
     "name": "zvonchuk/pdf-merger",
     "description": "PDF File Merger for PHP 7",
     "require": {
-        "setasign/fpdi": "dev-master",
-        "setasign/fpdf": "dev-master"
+        "setasign/fpdi": "^2.2",
+        "setasign/fpdf": "^1.8.2"
     },
     "authors": [
         {
